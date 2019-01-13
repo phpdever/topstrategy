@@ -66,7 +66,7 @@ module.exports = {
         // Paths
         assetsRoot: path.resolve(__dirname, '../dist/static'),
         assetsSubDirectory: 'static',
-        assetsPublicPath: '/topstrategy/dist/templates',
+        assetsPublicPath: '/topstrategy/dist/static',
 
         /**
          * Source Maps
